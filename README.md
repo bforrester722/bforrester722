@@ -1,7 +1,9 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEhSA90yszKVw/profile-displaybackgroundimage-shrink_350_1400/0/1689024189289?e=1697673600&v=beta&t=PH5H188DOYucpQOsAkUc7xVAso2wu2GICeT-kmDU35E" alt="profile" />
 <h1 align="center">Hi 👋, I'm Ben Forrester</h1>
 <h3 align="center">Senior Frontend engineer specializing in Angular and React</h3>
-
+<p align="left"> 
+    I'm a passionate Frontend Developer with a knack for creating visually appealing and user-friendly web applications. My journey in web development started with my fascination for turning creative ideas into functional and interactive interfaces.
+</p>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=bforrester722&label=Profile%20views&color=0e75b6&style=flat" alt="bforrester722" /> </p>
 
@@ -84,3 +86,4 @@
 </p>
 
 <p>&nbsp;
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bforrester722&show_icons=true&theme=dark)
