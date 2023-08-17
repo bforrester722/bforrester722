@@ -4,10 +4,15 @@
 <p align="left"> 
     I'm a passionate Frontend Developer with a knack for creating visually appealing and user-friendly web applications. My journey in web development started with my fascination for turning creative ideas into functional and interactive interfaces.
 </p>
+<img align="right" alt="GIF" height="225px" width="350px" src="./me.gif" />
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=bforrester722&label=Profile%20views&color=0e75b6&style=flat" alt="bforrester722" /> </p>
 
 - 🔭 I’m currently working at [MediaSourcery](https://www.mediasourcery.com/)
+
+- 🌱 I’m currently picking up more skills through LinkedIn Learning
+
+- 🚀 Always prepared to support the team with any task or request
 
 - 👨‍💻 All of my projects are available at [https://github.com/bforrester722](https://github.com/bforrester722)
 
@@ -86,4 +91,3 @@
 </p>
 
 <p>&nbsp;
-
