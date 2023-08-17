@@ -18,6 +18,8 @@
 
 - 🗂️ Portfolio [https://forrester-angular.web.app/](https://forrester-angular.web.app/)
 
+- ⚡ Fun fact: I am 1 percenter, well for height anyways (6'4")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ben-forrester-2672b41b2/" target="blank">
