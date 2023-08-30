@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at [MediaSourcery](https://www.mediasourcery.com/)
 
-- 🌱 I’m currently picking up more skills through LinkedIn Learning
+- 🌱 I’m currently picking up more skills through Harvard's CS50 Web Programming with Django, Python, and JavaScript
 
 - 🚀 Always prepared to support the team with any task or request
 
