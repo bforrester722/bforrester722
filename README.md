@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEhSA90yszKVw/profile-displaybackgroundimage-shrink_350_1400/0/1689024189289?e=1697673600&v=beta&t=PH5H188DOYucpQOsAkUc7xVAso2wu2GICeT-kmDU35E" alt="profile" />
 <h1 align="center">Hi 👋, I'm Ben Forrester</h1>
 <h3 align="center">Senior Frontend engineer specializing in Angular and React</h3>
 <p align="left"> 
