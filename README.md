@@ -7,7 +7,7 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=bforrester722&label=Profile%20views&color=0e75b6&style=flat" alt="bforrester722" /> </p>
 
-- 🔭 I’m currently working at [MediaSourcery](https://www.mediasourcery.com/)
+- 🔭 I’m currently working at [Elevate by Principal](https://www.elevatebyprincipal.com/)
 
 - 🌱 I’m currently picking up more skills through Harvard's CS50 Web Programming with Django, Python, and JavaScript
 
